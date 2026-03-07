@@ -12,8 +12,8 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: Лабораторная работа №1
-subtitle: Установка Linux Fedora
+title: Лабораторная работа №2
+subtitle: Установка Git и GH
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD"
