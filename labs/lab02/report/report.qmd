@@ -61,17 +61,17 @@ license: "CC BY"
 
 ![PGP Fingerprint](image/5.png){width=70%}
 
+Ввожу ключ на Github
+
+![Создание репозитория](image/6.png){width=70%}
+
 Делаю настройку для git
 
-![Доп. настройки git](image/6.png){width=70%}
+![Доп. настройки git](image/7.png){width=70%}
 
 С помощью `gh auth login` авторизовываюсь на github
 
-![Авторизация github](image/7.png){width=70%}
-
-Создаю репозиторий на своем github
-
-![Создание репозитория](image/8.png){width=70%}
+![Авторизация github](image/8.png){width=70%}
 
 Создаю репозиторий на своем github
 
