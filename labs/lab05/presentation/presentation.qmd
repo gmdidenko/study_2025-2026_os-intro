@@ -12,8 +12,8 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: Лабораторная работа №4
-subtitle: Gitflow
+title: Лабораторная работа №5
+subtitle: pass + chezmoi
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD"
